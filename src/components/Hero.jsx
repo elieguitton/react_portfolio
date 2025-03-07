@@ -15,7 +15,7 @@ const Hero = () => {
             </div>
             <div className='w-full lg:w-1/2 lg:p-8'>
                 <div className='flex justify-center'> 
-                    <img className='w-90 h-90' src={profilePic} alt='profile'/>
+                    <img className='w-90 h-90 rounded-2xl' src={profilePic} alt='profile'/>
                 </div>
             </div>
         </div> 
